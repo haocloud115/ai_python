@@ -1,4 +1,4 @@
-# KNOW + SPEAK + LISTEN (BE LEARNT BY DUNG LAI LAP TRINH)
+# KNOW + SPEAK + LISTEN (BE LEARNT BY DUNG LAI LAP TRINH--)
 
 # Import lib
 import speech_recognition
